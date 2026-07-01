@@ -1,0 +1,29 @@
+# Vivado generated folders
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Generated files
+*.jou
+*.log
+*.str
+*.bit
+*.bin
+*.rpt
+
+# Windows
+desktop.ini
+
+*.wcfg
+
+# Generated IP outputs
+*.gen/
+
+# Vivado generated checkpoints
+*.dcp
+
+# Utility imports
+project_27.srcs/utils_1/
